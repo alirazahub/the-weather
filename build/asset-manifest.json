@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/the-weather/static/css/main.02300eec.css",
+    "main.js": "/the-weather/static/js/main.e02b03ce.js",
+    "static/media/cycle.png": "/the-weather/static/media/cycle.878170513e77612b2953.png",
+    "static/media/cross.png": "/the-weather/static/media/cross.f09a7140ac4841e6e569.png",
+    "static/media/splash-icon.svg": "/the-weather/static/media/splash-icon.699b0bc5b331eb7ddb039683ec3decf4.svg",
+    "static/media/humidity.svg": "/the-weather/static/media/humidity.6499a5cec9fcc141b70dcdb6a54adc66.svg",
+    "index.html": "/the-weather/index.html",
+    "main.02300eec.css.map": "/the-weather/static/css/main.02300eec.css.map",
+    "main.e02b03ce.js.map": "/the-weather/static/js/main.e02b03ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02300eec.css",
+    "static/js/main.e02b03ce.js"
+  ]
+}
