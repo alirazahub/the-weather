@@ -2,7 +2,6 @@ import { Typography } from '@mui/material';
 import React from 'react';
 
 const PoweredBy = () => {
-  const utcFullDate = "Designed & Developed by https://www.github.com/alirazahub (Ali Raza)";
   const value = (
     <Typography
       variant="h3"
@@ -18,7 +17,7 @@ const PoweredBy = () => {
         float: 'right'
       }}
     >
-      {utcFullDate} 
+      <div>Designed & Developed by  <a href="https://www.github.com/alirazahub" target="_blank">alirazahub</a></div> 
     </Typography>
   );
   return value;
